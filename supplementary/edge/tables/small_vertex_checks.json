@@ -1,0 +1,9022 @@
+[
+  {
+    "type": "A",
+    "dimension": 2,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "67/6",
+    "S": 4,
+    "correction": 1,
+    "residual": "0"
+  },
+  {
+    "type": "A",
+    "dimension": 2,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "67/6",
+    "S": 4,
+    "correction": 1,
+    "residual": "0"
+  },
+  {
+    "type": "A",
+    "dimension": 2,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "67/6",
+    "S": 4,
+    "correction": 1,
+    "residual": "0"
+  },
+  {
+    "type": "A",
+    "dimension": 3,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "61/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "46/9"
+  },
+  {
+    "type": "A",
+    "dimension": 3,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "61/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "46/9"
+  },
+  {
+    "type": "A",
+    "dimension": 3,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "61/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "46/9"
+  },
+  {
+    "type": "A",
+    "dimension": 3,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "61/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "46/9"
+  },
+  {
+    "type": "A",
+    "dimension": 4,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "37/6"
+  },
+  {
+    "type": "A",
+    "dimension": 4,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "55/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "37/6"
+  },
+  {
+    "type": "A",
+    "dimension": 4,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "55/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "37/6"
+  },
+  {
+    "type": "A",
+    "dimension": 4,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "55/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "37/6"
+  },
+  {
+    "type": "A",
+    "dimension": 4,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "55/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "37/6"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 5,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "245/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "142/15"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 6,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "43/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "28/3"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 7,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "259/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "72/7"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 8,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "127/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "9"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 9,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "245/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "241/27"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 10,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "58/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "43/6"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 11,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "215/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "208/33"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 12,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "49/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "25/6"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 13,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "181/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "44/13"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 14,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "85/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "2"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 15,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 29,
+    "correction": 0,
+    "residual": "343/180"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 16,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "41/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 17,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "41/3",
+    "S": 33,
+    "correction": 0,
+    "residual": "379/204"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 18,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "41/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 19,
+    "coordinate_vertex": 19,
+    "diagram_node": 19,
+    "loss": "41/3",
+    "S": 37,
+    "correction": 0,
+    "residual": "415/228"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 19,
+    "diagram_node": 19,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "A",
+    "dimension": 20,
+    "coordinate_vertex": 20,
+    "diagram_node": 20,
+    "loss": "41/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "3/2"
+  },
+  {
+    "type": "B",
+    "dimension": 3,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "61/4",
+    "S": 3,
+    "correction": 0,
+    "residual": "55/6"
+  },
+  {
+    "type": "B",
+    "dimension": 3,
+    "coordinate_vertex": 1,
+    "diagram_node": 3,
+    "loss": "61/4",
+    "S": 3,
+    "correction": 0,
+    "residual": "55/6"
+  },
+  {
+    "type": "B",
+    "dimension": 3,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "73/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "73/9"
+  },
+  {
+    "type": "B",
+    "dimension": 3,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "61/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "46/9"
+  },
+  {
+    "type": "B",
+    "dimension": 4,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/3",
+    "S": 6,
+    "correction": 0,
+    "residual": "221/24"
+  },
+  {
+    "type": "B",
+    "dimension": 4,
+    "coordinate_vertex": 1,
+    "diagram_node": 4,
+    "loss": "55/3",
+    "S": 6,
+    "correction": 0,
+    "residual": "221/24"
+  },
+  {
+    "type": "B",
+    "dimension": 4,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "70/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "65/8"
+  },
+  {
+    "type": "B",
+    "dimension": 4,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "64/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "55/6"
+  },
+  {
+    "type": "B",
+    "dimension": 4,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "55/3",
+    "S": 6,
+    "correction": 0,
+    "residual": "221/24"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 1,
+    "diagram_node": 5,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "329/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "421/30"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "317/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "232/15"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "293/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "202/15"
+  },
+  {
+    "type": "B",
+    "dimension": 5,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "43/2",
+    "S": 8,
+    "correction": 0,
+    "residual": "241/18"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 1,
+    "diagram_node": 6,
+    "loss": "43/2",
+    "S": 8,
+    "correction": 0,
+    "residual": "241/18"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "61/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "55/3"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "61/2",
+    "S": 14,
+    "correction": 0,
+    "residual": "587/36"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "59/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "52/3"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "53/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "589/36"
+  },
+  {
+    "type": "B",
+    "dimension": 6,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "43/2",
+    "S": 8,
+    "correction": 0,
+    "residual": "241/18"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "259/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "289/21"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 1,
+    "diagram_node": 7,
+    "loss": "259/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "289/21"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "391/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "149/7"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "403/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "863/42"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "403/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "156/7"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "379/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "142/7"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "331/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "757/42"
+  },
+  {
+    "type": "B",
+    "dimension": 7,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "259/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "289/21"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "62/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "209/16"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 1,
+    "diagram_node": 8,
+    "loss": "62/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "209/16"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "101/3",
+    "S": 14,
+    "correction": 0,
+    "residual": "1105/48"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "107/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "47/2"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "110/3",
+    "S": 18,
+    "correction": 0,
+    "residual": "1103/48"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "107/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "47/2"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "98/3",
+    "S": 14,
+    "correction": 0,
+    "residual": "1057/48"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "83/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "445/24"
+  },
+  {
+    "type": "B",
+    "dimension": 8,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "62/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "209/16"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "239/12",
+    "S": 11,
+    "correction": 2,
+    "residual": "391/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 1,
+    "diagram_node": 9,
+    "loss": "239/12",
+    "S": 11,
+    "correction": 2,
+    "residual": "391/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "135/4",
+    "S": 15,
+    "correction": 2,
+    "residual": "461/18"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "147/4",
+    "S": 17,
+    "correction": 2,
+    "residual": "736/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "155/4",
+    "S": 19,
+    "correction": 2,
+    "residual": "1507/54"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "155/4",
+    "S": 17,
+    "correction": 2,
+    "residual": "790/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "147/4",
+    "S": 17,
+    "correction": 2,
+    "residual": "736/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "131/4",
+    "S": 15,
+    "correction": 2,
+    "residual": "443/18"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "107/4",
+    "S": 13,
+    "correction": 2,
+    "residual": "539/27"
+  },
+  {
+    "type": "B",
+    "dimension": 9,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "75/4",
+    "S": 11,
+    "correction": 2,
+    "residual": "719/54"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "113/6",
+    "S": 12,
+    "correction": 2,
+    "residual": "203/15"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 1,
+    "diagram_node": 10,
+    "loss": "113/6",
+    "S": 12,
+    "correction": 2,
+    "residual": "203/15"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "197/6",
+    "S": 16,
+    "correction": 2,
+    "residual": "251/10"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "221/6",
+    "S": 18,
+    "correction": 2,
+    "residual": "1673/60"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "239/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "89/3"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "245/6",
+    "S": 22,
+    "correction": 2,
+    "residual": "589/20"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "239/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "89/3"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "221/6",
+    "S": 18,
+    "correction": 2,
+    "residual": "1673/60"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "191/6",
+    "S": 16,
+    "correction": 2,
+    "residual": "241/10"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "149/6",
+    "S": 14,
+    "correction": 2,
+    "residual": "1099/60"
+  },
+  {
+    "type": "B",
+    "dimension": 10,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "103/6",
+    "S": 12,
+    "correction": 2,
+    "residual": "178/15"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "209/12",
+    "S": 13,
+    "correction": 2,
+    "residual": "269/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 1,
+    "diagram_node": 11,
+    "loss": "209/12",
+    "S": 13,
+    "correction": 2,
+    "residual": "269/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "385/12",
+    "S": 17,
+    "correction": 2,
+    "residual": "543/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "431/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "603/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "479/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "1000/33"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "503/12",
+    "S": 23,
+    "correction": 2,
+    "residual": "2059/66"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "503/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "1066/33"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "479/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "1000/33"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "431/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "603/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "359/12",
+    "S": 17,
+    "correction": 2,
+    "residual": "743/33"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "93/4",
+    "S": 15,
+    "correction": 2,
+    "residual": "373/22"
+  },
+  {
+    "type": "B",
+    "dimension": 11,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "63/4",
+    "S": 13,
+    "correction": 2,
+    "residual": "697/66"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "47/3",
+    "S": 14,
+    "correction": 2,
+    "residual": "761/72"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 1,
+    "diagram_node": 12,
+    "loss": "47/3",
+    "S": 14,
+    "correction": 2,
+    "residual": "761/72"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "31",
+    "S": 18,
+    "correction": 2,
+    "residual": "191/8"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "211/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "973/36"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "39",
+    "S": 22,
+    "correction": 2,
+    "residual": "2149/72"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "42",
+    "S": 24,
+    "correction": 2,
+    "residual": "191/6"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "43",
+    "S": 26,
+    "correction": 2,
+    "residual": "2291/72"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "42",
+    "S": 24,
+    "correction": 2,
+    "residual": "191/6"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "39",
+    "S": 22,
+    "correction": 2,
+    "residual": "2149/72"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "34",
+    "S": 20,
+    "correction": 2,
+    "residual": "931/36"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "85/3",
+    "S": 18,
+    "correction": 2,
+    "residual": "509/24"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "131/6",
+    "S": 16,
+    "correction": 2,
+    "residual": "283/18"
+  },
+  {
+    "type": "B",
+    "dimension": 12,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "14",
+    "S": 14,
+    "correction": 2,
+    "residual": "641/72"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/4",
+    "S": 15,
+    "correction": 2,
+    "residual": "227/26"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 1,
+    "diagram_node": 13,
+    "loss": "55/4",
+    "S": 15,
+    "correction": 2,
+    "residual": "227/26"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "355/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "295/13"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "409/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "1024/39"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "153/4",
+    "S": 23,
+    "correction": 2,
+    "residual": "1150/39"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "493/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "408/13"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "517/12",
+    "S": 27,
+    "correction": 2,
+    "residual": "2531/78"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "517/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "434/13"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "493/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "408/13"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "445/12",
+    "S": 23,
+    "correction": 2,
+    "residual": "2209/78"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "389/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "959/39"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "323/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "781/39"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "241/12",
+    "S": 17,
+    "correction": 2,
+    "residual": "551/39"
+  },
+  {
+    "type": "B",
+    "dimension": 13,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "143/12",
+    "S": 15,
+    "correction": 2,
+    "residual": "269/39"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "73/6",
+    "S": 16,
+    "correction": 2,
+    "residual": "101/14"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 1,
+    "diagram_node": 14,
+    "loss": "73/6",
+    "S": 16,
+    "correction": 2,
+    "residual": "101/14"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "167/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "148/7"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "98/3",
+    "S": 22,
+    "correction": 2,
+    "residual": "703/28"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "223/6",
+    "S": 24,
+    "correction": 2,
+    "residual": "1207/42"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "121/3",
+    "S": 26,
+    "correction": 2,
+    "residual": "869/28"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "253/6",
+    "S": 28,
+    "correction": 2,
+    "residual": "32"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "259/6",
+    "S": 30,
+    "correction": 2,
+    "residual": "2699/84"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "253/6",
+    "S": 28,
+    "correction": 2,
+    "residual": "32"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "235/6",
+    "S": 26,
+    "correction": 2,
+    "residual": "2509/84"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "71/2",
+    "S": 24,
+    "correction": 2,
+    "residual": "379/14"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "31",
+    "S": 22,
+    "correction": 2,
+    "residual": "1969/84"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "151/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "388/21"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "18",
+    "S": 18,
+    "correction": 2,
+    "residual": "341/28"
+  },
+  {
+    "type": "B",
+    "dimension": 14,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "29/3",
+    "S": 16,
+    "correction": 2,
+    "residual": "33/7"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "133/12",
+    "S": 17,
+    "correction": 2,
+    "residual": "557/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 1,
+    "diagram_node": 15,
+    "loss": "133/12",
+    "S": 17,
+    "correction": 2,
+    "residual": "557/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "311/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "97/5"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "371/12",
+    "S": 23,
+    "correction": 2,
+    "residual": "2123/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "143/4",
+    "S": 25,
+    "correction": 2,
+    "residual": "497/18"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "157/4",
+    "S": 27,
+    "correction": 2,
+    "residual": "303/10"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "497/12",
+    "S": 29,
+    "correction": 2,
+    "residual": "2849/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "169/4",
+    "S": 31,
+    "correction": 2,
+    "residual": "2851/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "169/4",
+    "S": 29,
+    "correction": 2,
+    "residual": "1462/45"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "161/4",
+    "S": 29,
+    "correction": 2,
+    "residual": "1372/45"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "451/12",
+    "S": 27,
+    "correction": 2,
+    "residual": "859/30"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "409/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "467/18"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "117/4",
+    "S": 23,
+    "correction": 2,
+    "residual": "1973/90"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "277/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "497/30"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "63/4",
+    "S": 19,
+    "correction": 2,
+    "residual": "452/45"
+  },
+  {
+    "type": "B",
+    "dimension": 15,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "31/4",
+    "S": 17,
+    "correction": 2,
+    "residual": "257/90"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 18,
+    "correction": 2,
+    "residual": "551/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 1,
+    "diagram_node": 16,
+    "loss": "127/12",
+    "S": 18,
+    "correction": 2,
+    "residual": "551/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "73/3",
+    "S": 22,
+    "correction": 2,
+    "residual": "575/32"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "29",
+    "S": 24,
+    "correction": 2,
+    "residual": "175/8"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "34",
+    "S": 26,
+    "correction": 2,
+    "residual": "2507/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "227/6",
+    "S": 28,
+    "correction": 2,
+    "residual": "467/16"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "121/3",
+    "S": 30,
+    "correction": 2,
+    "residual": "2969/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "83/2",
+    "S": 32,
+    "correction": 2,
+    "residual": "94/3"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "124/3",
+    "S": 34,
+    "correction": 2,
+    "residual": "973/32"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "121/3",
+    "S": 32,
+    "correction": 2,
+    "residual": "181/6"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "116/3",
+    "S": 30,
+    "correction": 2,
+    "residual": "2809/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "217/6",
+    "S": 28,
+    "correction": 2,
+    "residual": "1321/48"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "97/3",
+    "S": 26,
+    "correction": 2,
+    "residual": "2347/96"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "163/6",
+    "S": 24,
+    "correction": 2,
+    "residual": "481/24"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "125/6",
+    "S": 22,
+    "correction": 2,
+    "residual": "463/32"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "83/6",
+    "S": 20,
+    "correction": 2,
+    "residual": "395/48"
+  },
+  {
+    "type": "B",
+    "dimension": 16,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "19/3",
+    "S": 18,
+    "correction": 2,
+    "residual": "143/96"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "295/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 1,
+    "diagram_node": 17,
+    "loss": "127/12",
+    "S": 19,
+    "correction": 2,
+    "residual": "295/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "93/4",
+    "S": 23,
+    "correction": 2,
+    "residual": "868/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "329/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "348/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "385/12",
+    "S": 27,
+    "correction": 2,
+    "residual": "2491/102"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "433/12",
+    "S": 29,
+    "correction": 2,
+    "residual": "471/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "467/12",
+    "S": 31,
+    "correction": 2,
+    "residual": "507/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "485/12",
+    "S": 33,
+    "correction": 2,
+    "residual": "1561/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "487/12",
+    "S": 35,
+    "correction": 2,
+    "residual": "511/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "473/12",
+    "S": 33,
+    "correction": 2,
+    "residual": "1510/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "155/4",
+    "S": 33,
+    "correction": 2,
+    "residual": "492/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "149/4",
+    "S": 31,
+    "correction": 2,
+    "residual": "1436/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "413/12",
+    "S": 29,
+    "correction": 2,
+    "residual": "1328/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "121/4",
+    "S": 27,
+    "correction": 2,
+    "residual": "384/17"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "299/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "611/34"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "227/12",
+    "S": 23,
+    "correction": 2,
+    "residual": "647/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "149/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "352/51"
+  },
+  {
+    "type": "B",
+    "dimension": 17,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "23/4",
+    "S": 19,
+    "correction": 2,
+    "residual": "97/102"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 20,
+    "correction": 2,
+    "residual": "629/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 1,
+    "diagram_node": 18,
+    "loss": "127/12",
+    "S": 20,
+    "correction": 2,
+    "residual": "629/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "91/4",
+    "S": 24,
+    "correction": 2,
+    "residual": "599/36"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "79/3",
+    "S": 26,
+    "correction": 2,
+    "residual": "2111/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "61/2",
+    "S": 28,
+    "correction": 2,
+    "residual": "622/27"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "205/6",
+    "S": 30,
+    "correction": 2,
+    "residual": "937/36"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "223/6",
+    "S": 32,
+    "correction": 2,
+    "residual": "1531/54"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "39",
+    "S": 34,
+    "correction": 2,
+    "residual": "3187/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "79/2",
+    "S": 36,
+    "correction": 2,
+    "residual": "88/3"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "116/3",
+    "S": 38,
+    "correction": 2,
+    "residual": "3005/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "227/6",
+    "S": 36,
+    "correction": 2,
+    "residual": "83/3"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "112/3",
+    "S": 34,
+    "correction": 2,
+    "residual": "3007/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "71/2",
+    "S": 32,
+    "correction": 2,
+    "residual": "1441/54"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "97/3",
+    "S": 30,
+    "correction": 2,
+    "residual": "871/36"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "28",
+    "S": 28,
+    "correction": 2,
+    "residual": "1109/54"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "23",
+    "S": 26,
+    "correction": 2,
+    "residual": "1751/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "35/2",
+    "S": 24,
+    "correction": 2,
+    "residual": "205/18"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "71/6",
+    "S": 22,
+    "correction": 2,
+    "residual": "691/108"
+  },
+  {
+    "type": "B",
+    "dimension": 18,
+    "coordinate_vertex": 18,
+    "diagram_node": 17,
+    "loss": "23/4",
+    "S": 20,
+    "correction": 2,
+    "residual": "107/108"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "334/57"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 1,
+    "diagram_node": 19,
+    "loss": "127/12",
+    "S": 21,
+    "correction": 2,
+    "residual": "334/57"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "91/4",
+    "S": 25,
+    "correction": 2,
+    "residual": "1909/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "155/6",
+    "S": 27,
+    "correction": 2,
+    "residual": "4375/228"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "353/12",
+    "S": 29,
+    "correction": 2,
+    "residual": "841/38"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "391/12",
+    "S": 31,
+    "correction": 2,
+    "residual": "937/38"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "141/4",
+    "S": 33,
+    "correction": 2,
+    "residual": "507/19"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "149/4",
+    "S": 35,
+    "correction": 2,
+    "residual": "3197/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "457/12",
+    "S": 37,
+    "correction": 2,
+    "residual": "1073/38"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "451/12",
+    "S": 39,
+    "correction": 2,
+    "residual": "3089/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "445/12",
+    "S": 37,
+    "correction": 2,
+    "residual": "1035/38"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "437/12",
+    "S": 37,
+    "correction": 2,
+    "residual": "3029/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "427/12",
+    "S": 35,
+    "correction": 2,
+    "residual": "3007/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "401/12",
+    "S": 33,
+    "correction": 2,
+    "residual": "2833/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "361/12",
+    "S": 31,
+    "correction": 2,
+    "residual": "421/19"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "313/12",
+    "S": 29,
+    "correction": 2,
+    "residual": "2143/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "259/12",
+    "S": 27,
+    "correction": 2,
+    "residual": "1703/114"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "203/12",
+    "S": 25,
+    "correction": 2,
+    "residual": "622/57"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 18,
+    "diagram_node": 17,
+    "loss": "71/6",
+    "S": 23,
+    "correction": 2,
+    "residual": "1475/228"
+  },
+  {
+    "type": "B",
+    "dimension": 19,
+    "coordinate_vertex": 19,
+    "diagram_node": 18,
+    "loss": "23/4",
+    "S": 21,
+    "correction": 2,
+    "residual": "39/38"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 22,
+    "correction": 2,
+    "residual": "707/120"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 1,
+    "diagram_node": 20,
+    "loss": "127/12",
+    "S": 22,
+    "correction": 2,
+    "residual": "707/120"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "91/4",
+    "S": 26,
+    "correction": 2,
+    "residual": "2021/120"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "155/6",
+    "S": 28,
+    "correction": 2,
+    "residual": "1159/60"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "347/12",
+    "S": 30,
+    "correction": 2,
+    "residual": "523/24"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "63/2",
+    "S": 32,
+    "correction": 2,
+    "residual": "713/30"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "101/3",
+    "S": 34,
+    "correction": 2,
+    "residual": "1013/40"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "106/3",
+    "S": 36,
+    "correction": 2,
+    "residual": "1583/60"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "109/3",
+    "S": 38,
+    "correction": 2,
+    "residual": "1071/40"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "217/6",
+    "S": 40,
+    "correction": 2,
+    "residual": "26"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "36",
+    "S": 42,
+    "correction": 2,
+    "residual": "1009/40"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "107/3",
+    "S": 40,
+    "correction": 2,
+    "residual": "51/2"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "104/3",
+    "S": 38,
+    "correction": 2,
+    "residual": "3013/120"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "67/2",
+    "S": 36,
+    "correction": 2,
+    "residual": "491/20"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "187/6",
+    "S": 34,
+    "correction": 2,
+    "residual": "913/40"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "169/6",
+    "S": 32,
+    "correction": 2,
+    "residual": "613/30"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "74/3",
+    "S": 30,
+    "correction": 2,
+    "residual": "421/24"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "21",
+    "S": 28,
+    "correction": 2,
+    "residual": "869/60"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 18,
+    "diagram_node": 17,
+    "loss": "203/12",
+    "S": 26,
+    "correction": 2,
+    "residual": "1321/120"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 19,
+    "diagram_node": 18,
+    "loss": "71/6",
+    "S": 24,
+    "correction": 2,
+    "residual": "98/15"
+  },
+  {
+    "type": "B",
+    "dimension": 20,
+    "coordinate_vertex": 20,
+    "diagram_node": 19,
+    "loss": "23/4",
+    "S": 22,
+    "correction": 2,
+    "residual": "127/120"
+  },
+  {
+    "type": "C",
+    "dimension": 2,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "67/6",
+    "S": 2,
+    "correction": 0,
+    "residual": "61/12"
+  },
+  {
+    "type": "C",
+    "dimension": 2,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "73/6",
+    "S": 4,
+    "correction": 0,
+    "residual": "0"
+  },
+  {
+    "type": "C",
+    "dimension": 2,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "67/6",
+    "S": 2,
+    "correction": 0,
+    "residual": "61/12"
+  },
+  {
+    "type": "C",
+    "dimension": 3,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "61/4",
+    "S": 3,
+    "correction": 0,
+    "residual": "55/6"
+  },
+  {
+    "type": "C",
+    "dimension": 3,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "69/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "64/9"
+  },
+  {
+    "type": "C",
+    "dimension": 3,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "69/4",
+    "S": 5,
+    "correction": 0,
+    "residual": "64/9"
+  },
+  {
+    "type": "C",
+    "dimension": 3,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "61/4",
+    "S": 3,
+    "correction": 0,
+    "residual": "55/6"
+  },
+  {
+    "type": "C",
+    "dimension": 4,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/3",
+    "S": 4,
+    "correction": 0,
+    "residual": "49/4"
+  },
+  {
+    "type": "C",
+    "dimension": 4,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "64/3",
+    "S": 6,
+    "correction": 0,
+    "residual": "293/24"
+  },
+  {
+    "type": "C",
+    "dimension": 4,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "67/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "61/6"
+  },
+  {
+    "type": "C",
+    "dimension": 4,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "64/3",
+    "S": 6,
+    "correction": 0,
+    "residual": "293/24"
+  },
+  {
+    "type": "C",
+    "dimension": 4,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "55/3",
+    "S": 4,
+    "correction": 0,
+    "residual": "49/4"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "245/12",
+    "S": 5,
+    "correction": 0,
+    "residual": "43/3"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "293/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "159/10"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "317/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "232/15"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "317/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "232/15"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "293/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "159/10"
+  },
+  {
+    "type": "C",
+    "dimension": 5,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "245/12",
+    "S": 5,
+    "correction": 0,
+    "residual": "43/3"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "43/2",
+    "S": 6,
+    "correction": 0,
+    "residual": "185/12"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "53/2",
+    "S": 8,
+    "correction": 0,
+    "residual": "331/18"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "59/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "697/36"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "61/2",
+    "S": 12,
+    "correction": 0,
+    "residual": "55/3"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "59/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "697/36"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "53/2",
+    "S": 8,
+    "correction": 0,
+    "residual": "331/18"
+  },
+  {
+    "type": "C",
+    "dimension": 6,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "43/2",
+    "S": 6,
+    "correction": 0,
+    "residual": "185/12"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "259/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "31/2"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "331/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "415/21"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "379/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "925/42"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "403/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "156/7"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "403/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "156/7"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "379/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "925/42"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "331/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "415/21"
+  },
+  {
+    "type": "C",
+    "dimension": 7,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "259/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "31/2"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "62/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "175/12"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "83/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "321/16"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "98/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "565/24"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "107/3",
+    "S": 14,
+    "correction": 0,
+    "residual": "1201/48"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "110/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "49/2"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "107/3",
+    "S": 14,
+    "correction": 0,
+    "residual": "1201/48"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "98/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "565/24"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "83/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "321/16"
+  },
+  {
+    "type": "C",
+    "dimension": 8,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "62/3",
+    "S": 8,
+    "correction": 0,
+    "residual": "175/12"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "239/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "83/6"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "107/4",
+    "S": 11,
+    "correction": 0,
+    "residual": "1043/54"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "131/4",
+    "S": 13,
+    "correction": 0,
+    "residual": "647/27"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "147/4",
+    "S": 15,
+    "correction": 0,
+    "residual": "479/18"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "155/4",
+    "S": 17,
+    "correction": 0,
+    "residual": "736/27"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "155/4",
+    "S": 17,
+    "correction": 0,
+    "residual": "736/27"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "147/4",
+    "S": 15,
+    "correction": 0,
+    "residual": "479/18"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "131/4",
+    "S": 13,
+    "correction": 0,
+    "residual": "647/27"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "107/4",
+    "S": 11,
+    "correction": 0,
+    "residual": "1043/54"
+  },
+  {
+    "type": "C",
+    "dimension": 9,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "239/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "83/6"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "113/6",
+    "S": 10,
+    "correction": 0,
+    "residual": "51/4"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "26",
+    "S": 12,
+    "correction": 0,
+    "residual": "187/10"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "191/6",
+    "S": 14,
+    "correction": 0,
+    "residual": "1399/60"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "221/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "271/10"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "239/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "1733/60"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "245/6",
+    "S": 20,
+    "correction": 0,
+    "residual": "86/3"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "239/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "1733/60"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "221/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "271/10"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "191/6",
+    "S": 14,
+    "correction": 0,
+    "residual": "1399/60"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "26",
+    "S": 12,
+    "correction": 0,
+    "residual": "187/10"
+  },
+  {
+    "type": "C",
+    "dimension": 10,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "113/6",
+    "S": 10,
+    "correction": 0,
+    "residual": "51/4"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "209/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "34/3"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "299/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "195/11"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "373/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "752/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "431/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "875/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "479/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "647/22"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "503/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "1000/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "503/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "1000/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "479/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "647/22"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "431/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "875/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "373/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "752/33"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "299/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "195/11"
+  },
+  {
+    "type": "C",
+    "dimension": 11,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "209/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "34/3"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "47/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "115/12"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "47/2",
+    "S": 14,
+    "correction": 0,
+    "residual": "1181/72"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "30",
+    "S": 16,
+    "correction": 0,
+    "residual": "197/9"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "211/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "625/24"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "39",
+    "S": 20,
+    "correction": 0,
+    "residual": "1039/36"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "42",
+    "S": 22,
+    "correction": 0,
+    "residual": "2221/72"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "43",
+    "S": 24,
+    "correction": 0,
+    "residual": "185/6"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "42",
+    "S": 22,
+    "correction": 0,
+    "residual": "2221/72"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "39",
+    "S": 20,
+    "correction": 0,
+    "residual": "1039/36"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "211/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "625/24"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "30",
+    "S": 16,
+    "correction": 0,
+    "residual": "197/9"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "47/2",
+    "S": 14,
+    "correction": 0,
+    "residual": "1181/72"
+  },
+  {
+    "type": "C",
+    "dimension": 12,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "47/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "115/12"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/4",
+    "S": 13,
+    "correction": 0,
+    "residual": "23/3"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "87/4",
+    "S": 15,
+    "correction": 0,
+    "residual": "383/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "343/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "1609/78"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "409/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "655/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "153/4",
+    "S": 21,
+    "correction": 0,
+    "residual": "739/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "493/12",
+    "S": 23,
+    "correction": 0,
+    "residual": "2365/78"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "517/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "408/13"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "517/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "408/13"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "493/12",
+    "S": 23,
+    "correction": 0,
+    "residual": "2365/78"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "153/4",
+    "S": 21,
+    "correction": 0,
+    "residual": "739/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "409/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "655/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "343/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "1609/78"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "87/4",
+    "S": 15,
+    "correction": 0,
+    "residual": "383/26"
+  },
+  {
+    "type": "C",
+    "dimension": 13,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "55/4",
+    "S": 13,
+    "correction": 0,
+    "residual": "23/3"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "73/6",
+    "S": 14,
+    "correction": 0,
+    "residual": "73/12"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "119/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "541/42"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "161/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "1597/84"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "98/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "1007/42"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "223/6",
+    "S": 22,
+    "correction": 0,
+    "residual": "773/28"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "121/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "628/21"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "253/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "2593/84"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "259/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "31"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "253/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "2593/84"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "121/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "628/21"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "223/6",
+    "S": 22,
+    "correction": 0,
+    "residual": "773/28"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "98/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "1007/42"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "161/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "1597/84"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "119/6",
+    "S": 16,
+    "correction": 0,
+    "residual": "541/42"
+  },
+  {
+    "type": "C",
+    "dimension": 14,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "73/6",
+    "S": 14,
+    "correction": 0,
+    "residual": "73/12"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "133/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "5"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "73/4",
+    "S": 17,
+    "correction": 0,
+    "residual": "511/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "299/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "1549/90"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "371/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "112/5"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "143/4",
+    "S": 23,
+    "correction": 0,
+    "residual": "1189/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "157/4",
+    "S": 25,
+    "correction": 0,
+    "residual": "262/9"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "497/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "457/15"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "169/4",
+    "S": 29,
+    "correction": 0,
+    "residual": "1372/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "169/4",
+    "S": 29,
+    "correction": 0,
+    "residual": "1372/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "497/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "457/15"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "157/4",
+    "S": 25,
+    "correction": 0,
+    "residual": "262/9"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "143/4",
+    "S": 23,
+    "correction": 0,
+    "residual": "1189/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "371/12",
+    "S": 21,
+    "correction": 0,
+    "residual": "112/5"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "299/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "1549/90"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "73/4",
+    "S": 17,
+    "correction": 0,
+    "residual": "511/45"
+  },
+  {
+    "type": "C",
+    "dimension": 15,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "133/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "5"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 16,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "103/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "991/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "70/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "755/48"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "29",
+    "S": 22,
+    "correction": 0,
+    "residual": "1981/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "34",
+    "S": 24,
+    "correction": 0,
+    "residual": "199/8"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "227/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "2683/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "121/3",
+    "S": 28,
+    "correction": 0,
+    "residual": "475/16"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "83/2",
+    "S": 30,
+    "correction": 0,
+    "residual": "963/32"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "124/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "175/6"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "83/2",
+    "S": 30,
+    "correction": 0,
+    "residual": "963/32"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "121/3",
+    "S": 28,
+    "correction": 0,
+    "residual": "475/16"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "227/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "2683/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "34",
+    "S": 24,
+    "correction": 0,
+    "residual": "199/8"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "29",
+    "S": 22,
+    "correction": 0,
+    "residual": "1981/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "70/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "755/48"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "103/6",
+    "S": 18,
+    "correction": 0,
+    "residual": "991/96"
+  },
+  {
+    "type": "C",
+    "dimension": 16,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "127/12",
+    "S": 16,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "50/3",
+    "S": 19,
+    "correction": 0,
+    "residual": "671/68"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "89/4",
+    "S": 21,
+    "correction": 0,
+    "residual": "501/34"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "329/12",
+    "S": 23,
+    "correction": 0,
+    "residual": "1957/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "385/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "1180/51"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "433/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "2695/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "467/12",
+    "S": 29,
+    "correction": 0,
+    "residual": "2911/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "485/12",
+    "S": 31,
+    "correction": 0,
+    "residual": "997/34"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "487/12",
+    "S": 33,
+    "correction": 0,
+    "residual": "2935/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "487/12",
+    "S": 33,
+    "correction": 0,
+    "residual": "2935/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "485/12",
+    "S": 31,
+    "correction": 0,
+    "residual": "997/34"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "467/12",
+    "S": 29,
+    "correction": 0,
+    "residual": "2911/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "433/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "2695/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "385/12",
+    "S": 25,
+    "correction": 0,
+    "residual": "1180/51"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "329/12",
+    "S": 23,
+    "correction": 0,
+    "residual": "1957/102"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "89/4",
+    "S": 21,
+    "correction": 0,
+    "residual": "501/34"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "50/3",
+    "S": 19,
+    "correction": 0,
+    "residual": "671/68"
+  },
+  {
+    "type": "C",
+    "dimension": 17,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "127/12",
+    "S": 17,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 18,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "50/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "535/54"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "87/4",
+    "S": 22,
+    "correction": 0,
+    "residual": "773/54"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "79/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "164/9"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "61/2",
+    "S": 26,
+    "correction": 0,
+    "residual": "2345/108"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "205/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "667/27"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "223/6",
+    "S": 30,
+    "correction": 0,
+    "residual": "973/36"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "39",
+    "S": 32,
+    "correction": 0,
+    "residual": "761/27"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "79/2",
+    "S": 34,
+    "correction": 0,
+    "residual": "3025/108"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "239/6",
+    "S": 36,
+    "correction": 0,
+    "residual": "83/3"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "79/2",
+    "S": 34,
+    "correction": 0,
+    "residual": "3025/108"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "39",
+    "S": 32,
+    "correction": 0,
+    "residual": "761/27"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "223/6",
+    "S": 30,
+    "correction": 0,
+    "residual": "973/36"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "205/6",
+    "S": 28,
+    "correction": 0,
+    "residual": "667/27"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "61/2",
+    "S": 26,
+    "correction": 0,
+    "residual": "2345/108"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "79/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "164/9"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "87/4",
+    "S": 22,
+    "correction": 0,
+    "residual": "773/54"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "50/3",
+    "S": 20,
+    "correction": 0,
+    "residual": "535/54"
+  },
+  {
+    "type": "C",
+    "dimension": 18,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "127/12",
+    "S": 18,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "50/3",
+    "S": 21,
+    "correction": 0,
+    "residual": "2267/228"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "87/4",
+    "S": 23,
+    "correction": 0,
+    "residual": "820/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "155/6",
+    "S": 25,
+    "correction": 0,
+    "residual": "1355/76"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "353/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "1184/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "391/12",
+    "S": 29,
+    "correction": 0,
+    "residual": "1328/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "141/4",
+    "S": 31,
+    "correction": 0,
+    "residual": "2887/114"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "149/4",
+    "S": 33,
+    "correction": 0,
+    "residual": "507/19"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "457/12",
+    "S": 35,
+    "correction": 0,
+    "residual": "1532/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "155/4",
+    "S": 37,
+    "correction": 0,
+    "residual": "3067/114"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "155/4",
+    "S": 37,
+    "correction": 0,
+    "residual": "3067/114"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "457/12",
+    "S": 35,
+    "correction": 0,
+    "residual": "1532/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "149/4",
+    "S": 33,
+    "correction": 0,
+    "residual": "507/19"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "141/4",
+    "S": 31,
+    "correction": 0,
+    "residual": "2887/114"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "391/12",
+    "S": 29,
+    "correction": 0,
+    "residual": "1328/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "353/12",
+    "S": 27,
+    "correction": 0,
+    "residual": "1184/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "155/6",
+    "S": 25,
+    "correction": 0,
+    "residual": "1355/76"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "87/4",
+    "S": 23,
+    "correction": 0,
+    "residual": "820/57"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "50/3",
+    "S": 21,
+    "correction": 0,
+    "residual": "2267/228"
+  },
+  {
+    "type": "C",
+    "dimension": 19,
+    "coordinate_vertex": 19,
+    "diagram_node": 19,
+    "loss": "127/12",
+    "S": 19,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "127/12",
+    "S": 20,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 1,
+    "diagram_node": 1,
+    "loss": "50/3",
+    "S": 22,
+    "correction": 0,
+    "residual": "399/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 2,
+    "diagram_node": 2,
+    "loss": "87/4",
+    "S": 24,
+    "correction": 0,
+    "residual": "289/20"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 3,
+    "diagram_node": 3,
+    "loss": "155/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "717/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "347/12",
+    "S": 28,
+    "correction": 0,
+    "residual": "102/5"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "63/2",
+    "S": 30,
+    "correction": 0,
+    "residual": "179/8"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "101/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "359/15"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "106/3",
+    "S": 34,
+    "correction": 0,
+    "residual": "2999/120"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "109/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "1523/60"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "112/3",
+    "S": 38,
+    "correction": 0,
+    "residual": "1031/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "113/3",
+    "S": 40,
+    "correction": 0,
+    "residual": "51/2"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "112/3",
+    "S": 38,
+    "correction": 0,
+    "residual": "1031/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "109/3",
+    "S": 36,
+    "correction": 0,
+    "residual": "1523/60"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "106/3",
+    "S": 34,
+    "correction": 0,
+    "residual": "2999/120"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "101/3",
+    "S": 32,
+    "correction": 0,
+    "residual": "359/15"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "63/2",
+    "S": 30,
+    "correction": 0,
+    "residual": "179/8"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "347/12",
+    "S": 28,
+    "correction": 0,
+    "residual": "102/5"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "155/6",
+    "S": 26,
+    "correction": 0,
+    "residual": "717/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "87/4",
+    "S": 24,
+    "correction": 0,
+    "residual": "289/20"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 19,
+    "diagram_node": 19,
+    "loss": "50/3",
+    "S": 22,
+    "correction": 0,
+    "residual": "399/40"
+  },
+  {
+    "type": "C",
+    "dimension": 20,
+    "coordinate_vertex": 20,
+    "diagram_node": 20,
+    "loss": "127/12",
+    "S": 20,
+    "correction": 0,
+    "residual": "9/2"
+  },
+  {
+    "type": "D",
+    "dimension": 4,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "55/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "25/8"
+  },
+  {
+    "type": "D",
+    "dimension": 4,
+    "coordinate_vertex": 1,
+    "diagram_node": 3,
+    "loss": "55/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "25/8"
+  },
+  {
+    "type": "D",
+    "dimension": 4,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "73/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "0"
+  },
+  {
+    "type": "D",
+    "dimension": 4,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "55/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "25/8"
+  },
+  {
+    "type": "D",
+    "dimension": 4,
+    "coordinate_vertex": 4,
+    "diagram_node": 4,
+    "loss": "55/3",
+    "S": 10,
+    "correction": 0,
+    "residual": "25/8"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 1,
+    "diagram_node": 4,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "329/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "247/15"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "329/12",
+    "S": 9,
+    "correction": 0,
+    "residual": "247/15"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "D",
+    "dimension": 5,
+    "coordinate_vertex": 5,
+    "diagram_node": 5,
+    "loss": "245/12",
+    "S": 7,
+    "correction": 0,
+    "residual": "119/10"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "43/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "409/36"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 1,
+    "diagram_node": 5,
+    "loss": "43/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "409/36"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "61/2",
+    "S": 14,
+    "correction": 0,
+    "residual": "587/36"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "61/2",
+    "S": 20,
+    "correction": 0,
+    "residual": "92/9"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "61/2",
+    "S": 14,
+    "correction": 0,
+    "residual": "587/36"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "43/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "409/36"
+  },
+  {
+    "type": "D",
+    "dimension": 6,
+    "coordinate_vertex": 6,
+    "diagram_node": 6,
+    "loss": "43/2",
+    "S": 10,
+    "correction": 0,
+    "residual": "409/36"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "259/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "505/42"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 1,
+    "diagram_node": 6,
+    "loss": "259/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "505/42"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "391/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "821/42"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "403/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "156/7"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "403/12",
+    "S": 13,
+    "correction": 0,
+    "residual": "156/7"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "391/12",
+    "S": 15,
+    "correction": 0,
+    "residual": "821/42"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "259/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "505/42"
+  },
+  {
+    "type": "D",
+    "dimension": 7,
+    "coordinate_vertex": 7,
+    "diagram_node": 7,
+    "loss": "259/12",
+    "S": 11,
+    "correction": 0,
+    "residual": "505/42"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "62/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "277/24"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 1,
+    "diagram_node": 7,
+    "loss": "62/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "277/24"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "101/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "43/2"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "107/3",
+    "S": 18,
+    "correction": 0,
+    "residual": "1055/48"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "110/3",
+    "S": 24,
+    "correction": 0,
+    "residual": "221/12"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "107/3",
+    "S": 18,
+    "correction": 0,
+    "residual": "1055/48"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "101/3",
+    "S": 16,
+    "correction": 0,
+    "residual": "43/2"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "62/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "277/24"
+  },
+  {
+    "type": "D",
+    "dimension": 8,
+    "coordinate_vertex": 8,
+    "diagram_node": 8,
+    "loss": "62/3",
+    "S": 12,
+    "correction": 0,
+    "residual": "277/24"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "75/4",
+    "S": 13,
+    "correction": 3,
+    "residual": "350/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 1,
+    "diagram_node": 8,
+    "loss": "75/4",
+    "S": 13,
+    "correction": 3,
+    "residual": "350/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "135/4",
+    "S": 17,
+    "correction": 3,
+    "residual": "682/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "147/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "1453/54"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "155/4",
+    "S": 17,
+    "correction": 3,
+    "residual": "817/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "155/4",
+    "S": 17,
+    "correction": 3,
+    "residual": "817/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "147/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "1453/54"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "135/4",
+    "S": 17,
+    "correction": 3,
+    "residual": "682/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "75/4",
+    "S": 13,
+    "correction": 3,
+    "residual": "350/27"
+  },
+  {
+    "type": "D",
+    "dimension": 9,
+    "coordinate_vertex": 9,
+    "diagram_node": 9,
+    "loss": "75/4",
+    "S": 13,
+    "correction": 3,
+    "residual": "350/27"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "103/6",
+    "S": 14,
+    "correction": 3,
+    "residual": "233/20"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 1,
+    "diagram_node": 9,
+    "loss": "103/6",
+    "S": 14,
+    "correction": 3,
+    "residual": "233/20"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "197/6",
+    "S": 18,
+    "correction": 3,
+    "residual": "1493/60"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "221/6",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/3"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "239/6",
+    "S": 22,
+    "correction": 3,
+    "residual": "589/20"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "245/6",
+    "S": 28,
+    "correction": 3,
+    "residual": "134/5"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "239/6",
+    "S": 22,
+    "correction": 3,
+    "residual": "589/20"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "221/6",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/3"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "197/6",
+    "S": 18,
+    "correction": 3,
+    "residual": "1493/60"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "103/6",
+    "S": 14,
+    "correction": 3,
+    "residual": "233/20"
+  },
+  {
+    "type": "D",
+    "dimension": 10,
+    "coordinate_vertex": 10,
+    "diagram_node": 10,
+    "loss": "103/6",
+    "S": 14,
+    "correction": 3,
+    "residual": "233/20"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "63/4",
+    "S": 15,
+    "correction": 3,
+    "residual": "115/11"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 1,
+    "diagram_node": 10,
+    "loss": "63/4",
+    "S": 15,
+    "correction": 3,
+    "residual": "115/11"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "371/12",
+    "S": 19,
+    "correction": 3,
+    "residual": "515/22"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "431/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "901/33"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "479/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "1993/66"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "503/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "1099/33"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "503/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "1099/33"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "479/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "1993/66"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "431/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "901/33"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "371/12",
+    "S": 19,
+    "correction": 3,
+    "residual": "515/22"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "63/4",
+    "S": 15,
+    "correction": 3,
+    "residual": "115/11"
+  },
+  {
+    "type": "D",
+    "dimension": 11,
+    "coordinate_vertex": 11,
+    "diagram_node": 11,
+    "loss": "63/4",
+    "S": 15,
+    "correction": 3,
+    "residual": "115/11"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "14",
+    "S": 16,
+    "correction": 3,
+    "residual": "80/9"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 1,
+    "diagram_node": 11,
+    "loss": "14",
+    "S": 16,
+    "correction": 3,
+    "residual": "80/9"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "88/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "799/36"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "34",
+    "S": 22,
+    "correction": 3,
+    "residual": "1861/72"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "39",
+    "S": 24,
+    "correction": 3,
+    "residual": "179/6"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "42",
+    "S": 26,
+    "correction": 3,
+    "residual": "2291/72"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "43",
+    "S": 32,
+    "correction": 3,
+    "residual": "268/9"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "42",
+    "S": 26,
+    "correction": 3,
+    "residual": "2291/72"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "39",
+    "S": 24,
+    "correction": 3,
+    "residual": "179/6"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "34",
+    "S": 22,
+    "correction": 3,
+    "residual": "1861/72"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "88/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "799/36"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "14",
+    "S": 16,
+    "correction": 3,
+    "residual": "80/9"
+  },
+  {
+    "type": "D",
+    "dimension": 12,
+    "coordinate_vertex": 12,
+    "diagram_node": 12,
+    "loss": "14",
+    "S": 16,
+    "correction": 3,
+    "residual": "80/9"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "143/12",
+    "S": 17,
+    "correction": 3,
+    "residual": "181/26"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 1,
+    "diagram_node": 12,
+    "loss": "143/12",
+    "S": 17,
+    "correction": 3,
+    "residual": "181/26"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "335/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "1645/78"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "389/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "641/26"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "445/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "369/13"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "493/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "2453/78"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "517/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "447/13"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "517/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "447/13"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "493/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "2453/78"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "445/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "369/13"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "389/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "641/26"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "335/12",
+    "S": 21,
+    "correction": 3,
+    "residual": "1645/78"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "143/12",
+    "S": 17,
+    "correction": 3,
+    "residual": "181/26"
+  },
+  {
+    "type": "D",
+    "dimension": 13,
+    "coordinate_vertex": 13,
+    "diagram_node": 13,
+    "loss": "143/12",
+    "S": 17,
+    "correction": 3,
+    "residual": "181/26"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "29/3",
+    "S": 18,
+    "correction": 3,
+    "residual": "407/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 1,
+    "diagram_node": 13,
+    "loss": "29/3",
+    "S": 18,
+    "correction": 3,
+    "residual": "407/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "157/6",
+    "S": 22,
+    "correction": 3,
+    "residual": "549/28"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "31",
+    "S": 24,
+    "correction": 3,
+    "residual": "165/7"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "71/2",
+    "S": 26,
+    "correction": 3,
+    "residual": "2285/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "235/6",
+    "S": 28,
+    "correction": 3,
+    "residual": "30"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "253/6",
+    "S": 30,
+    "correction": 3,
+    "residual": "2699/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "259/6",
+    "S": 36,
+    "correction": 3,
+    "residual": "641/21"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "253/6",
+    "S": 30,
+    "correction": 3,
+    "residual": "2699/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "235/6",
+    "S": 28,
+    "correction": 3,
+    "residual": "30"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "71/2",
+    "S": 26,
+    "correction": 3,
+    "residual": "2285/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "31",
+    "S": 24,
+    "correction": 3,
+    "residual": "165/7"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "157/6",
+    "S": 22,
+    "correction": 3,
+    "residual": "549/28"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "29/3",
+    "S": 18,
+    "correction": 3,
+    "residual": "407/84"
+  },
+  {
+    "type": "D",
+    "dimension": 14,
+    "coordinate_vertex": 14,
+    "diagram_node": 14,
+    "loss": "29/3",
+    "S": 18,
+    "correction": 3,
+    "residual": "407/84"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "31/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "137/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 1,
+    "diagram_node": 14,
+    "loss": "31/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "137/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "289/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "799/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "117/4",
+    "S": 25,
+    "correction": 3,
+    "residual": "199/9"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "409/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "392/15"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "451/12",
+    "S": 29,
+    "correction": 3,
+    "residual": "1297/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "161/4",
+    "S": 31,
+    "correction": 3,
+    "residual": "2761/90"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "169/4",
+    "S": 29,
+    "correction": 3,
+    "residual": "1507/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "169/4",
+    "S": 29,
+    "correction": 3,
+    "residual": "1507/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "161/4",
+    "S": 31,
+    "correction": 3,
+    "residual": "2761/90"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "451/12",
+    "S": 29,
+    "correction": 3,
+    "residual": "1297/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "409/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "392/15"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "117/4",
+    "S": 25,
+    "correction": 3,
+    "residual": "199/9"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "289/12",
+    "S": 23,
+    "correction": 3,
+    "residual": "799/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "31/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "137/45"
+  },
+  {
+    "type": "D",
+    "dimension": 15,
+    "coordinate_vertex": 15,
+    "diagram_node": 15,
+    "loss": "31/4",
+    "S": 19,
+    "correction": 3,
+    "residual": "137/45"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "19/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/48"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 1,
+    "diagram_node": 15,
+    "loss": "19/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/48"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "131/6",
+    "S": 24,
+    "correction": 3,
+    "residual": "377/24"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "163/6",
+    "S": 26,
+    "correction": 3,
+    "residual": "649/32"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "97/3",
+    "S": 28,
+    "correction": 3,
+    "residual": "395/16"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "217/6",
+    "S": 30,
+    "correction": 3,
+    "residual": "2665/96"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "116/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "59/2"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "121/3",
+    "S": 34,
+    "correction": 3,
+    "residual": "973/32"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "124/3",
+    "S": 40,
+    "correction": 3,
+    "residual": "233/8"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "121/3",
+    "S": 34,
+    "correction": 3,
+    "residual": "973/32"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "116/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "59/2"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "217/6",
+    "S": 30,
+    "correction": 3,
+    "residual": "2665/96"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "97/3",
+    "S": 28,
+    "correction": 3,
+    "residual": "395/16"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "163/6",
+    "S": 26,
+    "correction": 3,
+    "residual": "649/32"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "131/6",
+    "S": 24,
+    "correction": 3,
+    "residual": "377/24"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "19/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/48"
+  },
+  {
+    "type": "D",
+    "dimension": 16,
+    "coordinate_vertex": 16,
+    "diagram_node": 16,
+    "loss": "19/3",
+    "S": 20,
+    "correction": 3,
+    "residual": "83/48"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "23/4",
+    "S": 21,
+    "correction": 3,
+    "residual": "21/17"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 1,
+    "diagram_node": 16,
+    "loss": "23/4",
+    "S": 21,
+    "correction": 3,
+    "residual": "21/17"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "239/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "475/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "299/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "931/51"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "121/4",
+    "S": 29,
+    "correction": 3,
+    "residual": "2333/102"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "413/12",
+    "S": 31,
+    "correction": 3,
+    "residual": "895/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "149/4",
+    "S": 33,
+    "correction": 3,
+    "residual": "967/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "155/4",
+    "S": 35,
+    "correction": 3,
+    "residual": "2981/102"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "473/12",
+    "S": 33,
+    "correction": 3,
+    "residual": "1561/51"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "473/12",
+    "S": 33,
+    "correction": 3,
+    "residual": "1561/51"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "155/4",
+    "S": 35,
+    "correction": 3,
+    "residual": "2981/102"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "149/4",
+    "S": 33,
+    "correction": 3,
+    "residual": "967/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "413/12",
+    "S": 31,
+    "correction": 3,
+    "residual": "895/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "121/4",
+    "S": 29,
+    "correction": 3,
+    "residual": "2333/102"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "299/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "931/51"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "239/12",
+    "S": 25,
+    "correction": 3,
+    "residual": "475/34"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "23/4",
+    "S": 21,
+    "correction": 3,
+    "residual": "21/17"
+  },
+  {
+    "type": "D",
+    "dimension": 17,
+    "coordinate_vertex": 17,
+    "diagram_node": 17,
+    "loss": "23/4",
+    "S": 21,
+    "correction": 3,
+    "residual": "21/17"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "23/4",
+    "S": 22,
+    "correction": 3,
+    "residual": "71/54"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 1,
+    "diagram_node": 17,
+    "loss": "23/4",
+    "S": 22,
+    "correction": 3,
+    "residual": "71/54"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "37/2",
+    "S": 26,
+    "correction": 3,
+    "residual": "1373/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "23",
+    "S": 28,
+    "correction": 3,
+    "residual": "893/54"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "28",
+    "S": 30,
+    "correction": 3,
+    "residual": "751/36"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "97/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "662/27"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "71/2",
+    "S": 34,
+    "correction": 3,
+    "residual": "2917/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "112/3",
+    "S": 36,
+    "correction": 3,
+    "residual": "169/6"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "227/6",
+    "S": 38,
+    "correction": 3,
+    "residual": "3023/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "75/2",
+    "S": 44,
+    "correction": 3,
+    "residual": "692/27"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "227/6",
+    "S": 38,
+    "correction": 3,
+    "residual": "3023/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "112/3",
+    "S": 36,
+    "correction": 3,
+    "residual": "169/6"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "71/2",
+    "S": 34,
+    "correction": 3,
+    "residual": "2917/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "97/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "662/27"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "28",
+    "S": 30,
+    "correction": 3,
+    "residual": "751/36"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "23",
+    "S": 28,
+    "correction": 3,
+    "residual": "893/54"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "37/2",
+    "S": 26,
+    "correction": 3,
+    "residual": "1373/108"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "23/4",
+    "S": 22,
+    "correction": 3,
+    "residual": "71/54"
+  },
+  {
+    "type": "D",
+    "dimension": 18,
+    "coordinate_vertex": 18,
+    "diagram_node": 18,
+    "loss": "23/4",
+    "S": 22,
+    "correction": 3,
+    "residual": "71/54"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "23/4",
+    "S": 23,
+    "correction": 3,
+    "residual": "79/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 1,
+    "diagram_node": 18,
+    "loss": "23/4",
+    "S": 23,
+    "correction": 3,
+    "residual": "79/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "215/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "1399/114"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "259/12",
+    "S": 29,
+    "correction": 3,
+    "residual": "872/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "313/12",
+    "S": 31,
+    "correction": 3,
+    "residual": "364/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "361/12",
+    "S": 33,
+    "correction": 3,
+    "residual": "2567/114"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "401/12",
+    "S": 35,
+    "correction": 3,
+    "residual": "479/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "427/12",
+    "S": 37,
+    "correction": 3,
+    "residual": "508/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "437/12",
+    "S": 39,
+    "correction": 3,
+    "residual": "1535/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "431/12",
+    "S": 37,
+    "correction": 3,
+    "residual": "1543/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "431/12",
+    "S": 37,
+    "correction": 3,
+    "residual": "1543/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "437/12",
+    "S": 39,
+    "correction": 3,
+    "residual": "1535/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "427/12",
+    "S": 37,
+    "correction": 3,
+    "residual": "508/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "401/12",
+    "S": 35,
+    "correction": 3,
+    "residual": "479/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "361/12",
+    "S": 33,
+    "correction": 3,
+    "residual": "2567/114"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "313/12",
+    "S": 31,
+    "correction": 3,
+    "residual": "364/19"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "259/12",
+    "S": 29,
+    "correction": 3,
+    "residual": "872/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "215/12",
+    "S": 27,
+    "correction": 3,
+    "residual": "1399/114"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 18,
+    "diagram_node": 17,
+    "loss": "23/4",
+    "S": 23,
+    "correction": 3,
+    "residual": "79/57"
+  },
+  {
+    "type": "D",
+    "dimension": 19,
+    "coordinate_vertex": 19,
+    "diagram_node": 19,
+    "loss": "23/4",
+    "S": 23,
+    "correction": 3,
+    "residual": "79/57"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 0,
+    "diagram_node": 0,
+    "loss": "23/4",
+    "S": 24,
+    "correction": 3,
+    "residual": "29/20"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 1,
+    "diagram_node": 19,
+    "loss": "23/4",
+    "S": 24,
+    "correction": 3,
+    "residual": "29/20"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 2,
+    "diagram_node": 1,
+    "loss": "215/12",
+    "S": 28,
+    "correction": 3,
+    "residual": "62/5"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 3,
+    "diagram_node": 2,
+    "loss": "21",
+    "S": 30,
+    "correction": 3,
+    "residual": "119/8"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 4,
+    "diagram_node": 3,
+    "loss": "74/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "269/15"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 5,
+    "diagram_node": 4,
+    "loss": "169/6",
+    "S": 34,
+    "correction": 3,
+    "residual": "833/40"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 6,
+    "diagram_node": 5,
+    "loss": "187/6",
+    "S": 36,
+    "correction": 3,
+    "residual": "1393/60"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 7,
+    "diagram_node": 6,
+    "loss": "67/2",
+    "S": 38,
+    "correction": 3,
+    "residual": "2993/120"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 8,
+    "diagram_node": 7,
+    "loss": "104/3",
+    "S": 40,
+    "correction": 3,
+    "residual": "51/2"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 9,
+    "diagram_node": 8,
+    "loss": "69/2",
+    "S": 42,
+    "correction": 3,
+    "residual": "989/40"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 10,
+    "diagram_node": 9,
+    "loss": "103/3",
+    "S": 48,
+    "correction": 3,
+    "residual": "341/15"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 11,
+    "diagram_node": 10,
+    "loss": "69/2",
+    "S": 42,
+    "correction": 3,
+    "residual": "989/40"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 12,
+    "diagram_node": 11,
+    "loss": "104/3",
+    "S": 40,
+    "correction": 3,
+    "residual": "51/2"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 13,
+    "diagram_node": 12,
+    "loss": "67/2",
+    "S": 38,
+    "correction": 3,
+    "residual": "2993/120"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 14,
+    "diagram_node": 13,
+    "loss": "187/6",
+    "S": 36,
+    "correction": 3,
+    "residual": "1393/60"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 15,
+    "diagram_node": 14,
+    "loss": "169/6",
+    "S": 34,
+    "correction": 3,
+    "residual": "833/40"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 16,
+    "diagram_node": 15,
+    "loss": "74/3",
+    "S": 32,
+    "correction": 3,
+    "residual": "269/15"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 17,
+    "diagram_node": 16,
+    "loss": "21",
+    "S": 30,
+    "correction": 3,
+    "residual": "119/8"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 18,
+    "diagram_node": 17,
+    "loss": "215/12",
+    "S": 28,
+    "correction": 3,
+    "residual": "62/5"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 19,
+    "diagram_node": 18,
+    "loss": "23/4",
+    "S": 24,
+    "correction": 3,
+    "residual": "29/20"
+  },
+  {
+    "type": "D",
+    "dimension": 20,
+    "coordinate_vertex": 20,
+    "diagram_node": 20,
+    "loss": "23/4",
+    "S": 24,
+    "correction": 3,
+    "residual": "29/20"
+  }
+]

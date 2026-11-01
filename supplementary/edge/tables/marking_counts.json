@@ -1,0 +1,3009 @@
+{
+  "method": "Exact rational congruence and deletion tests; no quotient by marked automorphisms.",
+  "candidate_entries": 61,
+  "summary": [
+    {
+      "r": 3,
+      "candidates": 5,
+      "p_distribution": {
+        "3": 5
+      },
+      "counts": {
+        "I": 0,
+        "II": 5,
+        "III": 15
+      }
+    },
+    {
+      "r": 4,
+      "candidates": 17,
+      "p_distribution": {
+        "0": 2,
+        "1": 1,
+        "2": 3,
+        "3": 5,
+        "4": 6
+      },
+      "counts": {
+        "I": 17,
+        "II": 29,
+        "III": 108
+      }
+    },
+    {
+      "r": 5,
+      "candidates": 13,
+      "p_distribution": {
+        "2": 2,
+        "3": 2,
+        "4": 5,
+        "5": 4
+      },
+      "counts": {
+        "I": 65,
+        "II": 62,
+        "III": 234
+      }
+    },
+    {
+      "r": 6,
+      "candidates": 12,
+      "p_distribution": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 3,
+        "5": 4
+      },
+      "counts": {
+        "I": 180,
+        "II": 54,
+        "III": 260
+      }
+    },
+    {
+      "r": 7,
+      "candidates": 3,
+      "p_distribution": {
+        "6": 3
+      },
+      "counts": {
+        "I": 105,
+        "II": 60,
+        "III": 225
+      }
+    },
+    {
+      "r": 8,
+      "candidates": 4,
+      "p_distribution": {
+        "7": 4
+      },
+      "counts": {
+        "I": 280,
+        "II": 140,
+        "III": 504
+      }
+    },
+    {
+      "r": 9,
+      "candidates": 4,
+      "p_distribution": {
+        "7": 1,
+        "8": 3
+      },
+      "counts": {
+        "I": 504,
+        "II": 203,
+        "III": 735
+      }
+    },
+    {
+      "r": 10,
+      "candidates": 3,
+      "p_distribution": {
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "counts": {
+        "I": 630,
+        "II": 175,
+        "III": 680
+      }
+    }
+  ],
+  "totals": {
+    "I": 1781,
+    "II": 728,
+    "III": 2761
+  },
+  "type_III_singular_a": 577,
+  "comparison_with_local_checks": "All 5270 marked identifiers agree.",
+  "candidates": [
+    {
+      "name": "R3-1",
+      "r": 3,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 0,
+        "II": 1,
+        "III": 3
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R3-3",
+      "r": 3,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 0,
+        "II": 1,
+        "III": 3
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R3-4",
+      "r": 3,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 0,
+        "II": 1,
+        "III": 3
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R3-6",
+      "r": 3,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 0,
+        "II": 1,
+        "III": 3
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R3-10",
+      "r": 3,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 0,
+        "II": 1,
+        "III": 3
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-1",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-3",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          3,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 1,
+        "II": 1,
+        "III": 6
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R4-11",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-15",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 1,
+        "II": 1,
+        "III": 6
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R4-8",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-12",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        2
+      ],
+      "singular_deletions": [
+        3
+      ],
+      "counts": {
+        "I": 1,
+        "II": 1,
+        "III": 6
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R4-7",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          3,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 1,
+      "positive_deletions": [
+        3
+      ],
+      "singular_deletions": [
+        0,
+        1,
+        2
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 0
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-16",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 1,
+        "II": 1,
+        "III": 6
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R4-10",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-14",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        0,
+        1
+      ],
+      "singular_deletions": [
+        2,
+        3
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 2
+      },
+      "type_III_singular_a": 2
+    },
+    {
+      "name": "R4-32",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        0,
+        2
+      ],
+      "singular_deletions": [
+        1,
+        3
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 2
+      },
+      "type_III_singular_a": 2
+    },
+    {
+      "name": "R4-17",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-19",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 1,
+        "II": 1,
+        "III": 6
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R4-22",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 1,
+        "II": 4,
+        "III": 12
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-23",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        2,
+        3
+      ],
+      "singular_deletions": [
+        0,
+        1
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 2
+      },
+      "type_III_singular_a": 2
+    },
+    {
+      "name": "R4-31",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 0,
+      "positive_deletions": [],
+      "singular_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 0
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R4-33",
+      "r": 4,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 0,
+      "positive_deletions": [],
+      "singular_deletions": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "I": 1,
+        "II": 0,
+        "III": 0
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R5-1",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          2,
+          4,
+          3
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0,
+        1,
+        2
+      ],
+      "counts": {
+        "I": 5,
+        "II": 0,
+        "III": 3
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R5-5",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 5,
+        "II": 4,
+        "III": 18
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-8",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 5,
+        "II": 10,
+        "III": 30
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R5-6",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          3,
+          4,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 5,
+        "II": 4,
+        "III": 18
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-9",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          3,
+          4,
+          3
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0,
+        1
+      ],
+      "counts": {
+        "I": 5,
+        "II": 1,
+        "III": 9
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-18",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          4,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 5,
+        "II": 4,
+        "III": 18
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-11",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 5,
+        "II": 10,
+        "III": 30
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R5-15",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "singular_deletions": [
+        3
+      ],
+      "counts": {
+        "I": 5,
+        "II": 4,
+        "III": 18
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-19",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          4,
+          3
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        1,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0,
+        2
+      ],
+      "counts": {
+        "I": 5,
+        "II": 1,
+        "III": 9
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "R5-14",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 5,
+        "II": 10,
+        "III": 30
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R5-30",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          1,
+          4,
+          3
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        0,
+        1
+      ],
+      "singular_deletions": [
+        2,
+        3,
+        4
+      ],
+      "counts": {
+        "I": 5,
+        "II": 0,
+        "III": 3
+      },
+      "type_III_singular_a": 3
+    },
+    {
+      "name": "R5-20",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [],
+      "counts": {
+        "I": 5,
+        "II": 10,
+        "III": 30
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "R5-23",
+      "r": 5,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 5,
+        "II": 4,
+        "III": 18
+      },
+      "type_III_singular_a": 6
+    },
+    {
+      "name": "Q6-1",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "singular_deletions": [
+        3
+      ],
+      "counts": {
+        "I": 15,
+        "II": 10,
+        "III": 40
+      },
+      "type_III_singular_a": 10
+    },
+    {
+      "name": "Q6-2",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "singular_deletions": [
+        3,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 4,
+        "III": 24
+      },
+      "type_III_singular_a": 12
+    },
+    {
+      "name": "Q6-3",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          4
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "singular_deletions": [
+        3,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 4,
+        "III": 24
+      },
+      "type_III_singular_a": 12
+    },
+    {
+      "name": "Q6-4",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          4
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        4
+      ],
+      "singular_deletions": [
+        2,
+        3,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 1,
+        "III": 12
+      },
+      "type_III_singular_a": 9
+    },
+    {
+      "name": "Q6-5",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "singular_deletions": [
+        2
+      ],
+      "counts": {
+        "I": 15,
+        "II": 10,
+        "III": 40
+      },
+      "type_III_singular_a": 10
+    },
+    {
+      "name": "Q6-6",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          3,
+          4,
+          4
+        ]
+      ],
+      "p": 3,
+      "positive_deletions": [
+        0,
+        1,
+        3
+      ],
+      "singular_deletions": [
+        2,
+        4,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 1,
+        "III": 12
+      },
+      "type_III_singular_a": 9
+    },
+    {
+      "name": "Q6-7",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "singular_deletions": [
+        2
+      ],
+      "counts": {
+        "I": 15,
+        "II": 10,
+        "III": 40
+      },
+      "type_III_singular_a": 10
+    },
+    {
+      "name": "Q6-8",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "p": 2,
+      "positive_deletions": [
+        0,
+        1
+      ],
+      "singular_deletions": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 0,
+        "III": 4
+      },
+      "type_III_singular_a": 4
+    },
+    {
+      "name": "Q6-9",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          3,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ]
+      ],
+      "p": 1,
+      "positive_deletions": [
+        0
+      ],
+      "singular_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 0,
+        "III": 0
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "Q6-10",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          4
+        ]
+      ],
+      "p": 4,
+      "positive_deletions": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "singular_deletions": [
+        1,
+        2
+      ],
+      "counts": {
+        "I": 15,
+        "II": 4,
+        "III": 24
+      },
+      "type_III_singular_a": 12
+    },
+    {
+      "name": "Q6-11",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          4
+        ]
+      ],
+      "p": 0,
+      "positive_deletions": [],
+      "singular_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 0,
+        "III": 0
+      },
+      "type_III_singular_a": 0
+    },
+    {
+      "name": "Q6-12",
+      "r": 6,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ]
+      ],
+      "p": 5,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "singular_deletions": [
+        5
+      ],
+      "counts": {
+        "I": 15,
+        "II": 10,
+        "III": 40
+      },
+      "type_III_singular_a": 10
+    },
+    {
+      "name": "Q7-1",
+      "r": 7,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          6,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 6,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "singular_deletions": [
+        5
+      ],
+      "counts": {
+        "I": 35,
+        "II": 20,
+        "III": 75
+      },
+      "type_III_singular_a": 15
+    },
+    {
+      "name": "Q7-2",
+      "r": 7,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          4,
+          3
+        ],
+        [
+          0,
+          6,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          3,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 6,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "singular_deletions": [
+        5
+      ],
+      "counts": {
+        "I": 35,
+        "II": 20,
+        "III": 75
+      },
+      "type_III_singular_a": 15
+    },
+    {
+      "name": "Q7-3",
+      "r": 7,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          5,
+          3
+        ],
+        [
+          0,
+          6,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ]
+      ],
+      "p": 6,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "singular_deletions": [
+        6
+      ],
+      "counts": {
+        "I": 35,
+        "II": 20,
+        "III": 75
+      },
+      "type_III_singular_a": 15
+    },
+    {
+      "name": "Q8-B",
+      "r": 8,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          7,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          4
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 70,
+        "II": 35,
+        "III": 126
+      },
+      "type_III_singular_a": 21
+    },
+    {
+      "name": "Q8-D",
+      "r": 8,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          5,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          6,
+          3
+        ],
+        [
+          4,
+          7,
+          3
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 70,
+        "II": 35,
+        "III": 126
+      },
+      "type_III_singular_a": 21
+    },
+    {
+      "name": "Q8-cycle",
+      "r": 8,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          6,
+          3
+        ],
+        [
+          0,
+          7,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "singular_deletions": [
+        7
+      ],
+      "counts": {
+        "I": 70,
+        "II": 35,
+        "III": 126
+      },
+      "type_III_singular_a": 21
+    },
+    {
+      "name": "Q8-E",
+      "r": 8,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          6,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          6,
+          7,
+          3
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "singular_deletions": [
+        5
+      ],
+      "counts": {
+        "I": 70,
+        "II": 35,
+        "III": 126
+      },
+      "type_III_singular_a": 21
+    },
+    {
+      "name": "Q9-B",
+      "r": 9,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          8,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          7,
+          4
+        ]
+      ],
+      "p": 8,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 126,
+        "II": 56,
+        "III": 196
+      },
+      "type_III_singular_a": 28
+    },
+    {
+      "name": "Q9-D",
+      "r": 9,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          6,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          7,
+          3
+        ],
+        [
+          5,
+          8,
+          3
+        ]
+      ],
+      "p": 8,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "singular_deletions": [
+        0
+      ],
+      "counts": {
+        "I": 126,
+        "II": 56,
+        "III": 196
+      },
+      "type_III_singular_a": 28
+    },
+    {
+      "name": "Q9-cycle",
+      "r": 9,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          7,
+          3
+        ],
+        [
+          0,
+          8,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          7,
+          3
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "singular_deletions": [
+        4,
+        8
+      ],
+      "counts": {
+        "I": 126,
+        "II": 35,
+        "III": 147
+      },
+      "type_III_singular_a": 42
+    },
+    {
+      "name": "Q9-E",
+      "r": 9,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          3,
+          8,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          7,
+          3
+        ]
+      ],
+      "p": 8,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "singular_deletions": [
+        7
+      ],
+      "counts": {
+        "I": 126,
+        "II": 56,
+        "III": 196
+      },
+      "type_III_singular_a": 28
+    },
+    {
+      "name": "Q10-B",
+      "r": 10,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          9,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          7,
+          3
+        ],
+        [
+          7,
+          8,
+          4
+        ]
+      ],
+      "p": 8,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "singular_deletions": [
+        0,
+        8
+      ],
+      "counts": {
+        "I": 210,
+        "II": 56,
+        "III": 224
+      },
+      "type_III_singular_a": 56
+    },
+    {
+      "name": "Q10-D",
+      "r": 10,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          7,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          8,
+          3
+        ],
+        [
+          6,
+          9,
+          3
+        ]
+      ],
+      "p": 7,
+      "positive_deletions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singular_deletions": [
+        0,
+        8,
+        9
+      ],
+      "counts": {
+        "I": 210,
+        "II": 35,
+        "III": 168
+      },
+      "type_III_singular_a": 63
+    },
+    {
+      "name": "Q10-E",
+      "r": 10,
+      "edges": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          9,
+          3
+        ],
+        [
+          3,
+          4,
+          3
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          6,
+          7,
+          3
+        ],
+        [
+          7,
+          8,
+          3
+        ]
+      ],
+      "p": 9,
+      "positive_deletions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "singular_deletions": [
+        8
+      ],
+      "counts": {
+        "I": 210,
+        "II": 84,
+        "III": 288
+      },
+      "type_III_singular_a": 36
+    }
+  ]
+}

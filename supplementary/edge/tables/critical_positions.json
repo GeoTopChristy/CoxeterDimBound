@@ -1,0 +1,233 @@
+[
+  {
+    "core": "Q9-B",
+    "marks": [
+      1,
+      8
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "-1",
+    "rho": "8"
+  },
+  {
+    "core": "Q9-B",
+    "marks": [
+      6,
+      7
+    ],
+    "node": 0,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "8"
+  },
+  {
+    "core": "Q9-D",
+    "marks": [
+      7,
+      8
+    ],
+    "node": 0,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "8"
+  },
+  {
+    "core": "Q9-E",
+    "marks": [
+      0,
+      1
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "4"
+  },
+  {
+    "core": "Q10-B",
+    "marks": [
+      1,
+      2
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "8"
+  },
+  {
+    "core": "Q10-B",
+    "marks": [
+      1,
+      9
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "-2",
+    "rho": "16"
+  },
+  {
+    "core": "Q10-B",
+    "marks": [
+      1,
+      9
+    ],
+    "node": 8,
+    "distance": 7,
+    "zeta": "0",
+    "rho": "9"
+  },
+  {
+    "core": "Q10-B",
+    "marks": [
+      2,
+      9
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "9"
+  },
+  {
+    "core": "Q10-B",
+    "marks": [
+      6,
+      7
+    ],
+    "node": 0,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "8"
+  },
+  {
+    "core": "Q10-D",
+    "marks": [
+      1,
+      7
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "9/2"
+  },
+  {
+    "core": "Q10-D",
+    "marks": [
+      1,
+      7
+    ],
+    "node": 9,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "9/2"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      0,
+      1
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "-4",
+    "rho": "4"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      0,
+      1
+    ],
+    "node": 8,
+    "distance": 7,
+    "zeta": "0",
+    "rho": "2"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      0,
+      2
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "2"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      0,
+      9
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "-4",
+    "rho": "4"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      0,
+      9
+    ],
+    "node": 8,
+    "distance": 7,
+    "zeta": "0",
+    "rho": "2"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      1,
+      2
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "16/9"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      1,
+      9
+    ],
+    "node": 7,
+    "distance": 6,
+    "zeta": "-4",
+    "rho": "16/5"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      1,
+      9
+    ],
+    "node": 8,
+    "distance": 7,
+    "zeta": "0",
+    "rho": "9/5"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      2,
+      9
+    ],
+    "node": 8,
+    "distance": 6,
+    "zeta": "0",
+    "rho": "9/5"
+  },
+  {
+    "core": "Q10-E",
+    "marks": [
+      6,
+      7
+    ],
+    "node": 0,
+    "distance": 6,
+    "zeta": "-8",
+    "rho": "8"
+  }
+]

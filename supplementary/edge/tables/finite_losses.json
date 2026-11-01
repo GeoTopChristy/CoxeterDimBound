@@ -1,0 +1,597 @@
+[
+  {
+    "type": "A",
+    "order": 1,
+    "loss": "73/12"
+  },
+  {
+    "type": "A",
+    "order": 2,
+    "loss": "67/6"
+  },
+  {
+    "type": "A",
+    "order": 3,
+    "loss": "61/4"
+  },
+  {
+    "type": "A",
+    "order": 4,
+    "loss": "55/3"
+  },
+  {
+    "type": "A",
+    "order": 5,
+    "loss": "245/12"
+  },
+  {
+    "type": "A",
+    "order": 6,
+    "loss": "43/2"
+  },
+  {
+    "type": "A",
+    "order": 7,
+    "loss": "259/12"
+  },
+  {
+    "type": "A",
+    "order": 8,
+    "loss": "127/6"
+  },
+  {
+    "type": "A",
+    "order": 9,
+    "loss": "245/12"
+  },
+  {
+    "type": "A",
+    "order": 10,
+    "loss": "58/3"
+  },
+  {
+    "type": "A",
+    "order": 11,
+    "loss": "215/12"
+  },
+  {
+    "type": "A",
+    "order": 12,
+    "loss": "49/3"
+  },
+  {
+    "type": "A",
+    "order": 13,
+    "loss": "181/12"
+  },
+  {
+    "type": "A",
+    "order": 14,
+    "loss": "85/6"
+  },
+  {
+    "type": "A",
+    "order": 15,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 16,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 17,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 18,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 19,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 20,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 21,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 22,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 23,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 24,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 25,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 26,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 27,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 28,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 29,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 30,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 31,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 32,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 33,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 34,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 35,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 36,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 37,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 38,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 39,
+    "loss": "41/3"
+  },
+  {
+    "type": "A",
+    "order": 40,
+    "loss": "41/3"
+  },
+  {
+    "type": "B",
+    "order": 1,
+    "loss": "73/12"
+  },
+  {
+    "type": "B",
+    "order": 2,
+    "loss": "67/6"
+  },
+  {
+    "type": "B",
+    "order": 3,
+    "loss": "61/4"
+  },
+  {
+    "type": "B",
+    "order": 4,
+    "loss": "55/3"
+  },
+  {
+    "type": "B",
+    "order": 5,
+    "loss": "245/12"
+  },
+  {
+    "type": "B",
+    "order": 6,
+    "loss": "43/2"
+  },
+  {
+    "type": "B",
+    "order": 7,
+    "loss": "259/12"
+  },
+  {
+    "type": "B",
+    "order": 8,
+    "loss": "62/3"
+  },
+  {
+    "type": "B",
+    "order": 9,
+    "loss": "239/12"
+  },
+  {
+    "type": "B",
+    "order": 10,
+    "loss": "113/6"
+  },
+  {
+    "type": "B",
+    "order": 11,
+    "loss": "209/12"
+  },
+  {
+    "type": "B",
+    "order": 12,
+    "loss": "47/3"
+  },
+  {
+    "type": "B",
+    "order": 13,
+    "loss": "55/4"
+  },
+  {
+    "type": "B",
+    "order": 14,
+    "loss": "73/6"
+  },
+  {
+    "type": "B",
+    "order": 15,
+    "loss": "133/12"
+  },
+  {
+    "type": "B",
+    "order": 16,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 17,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 18,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 19,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 20,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 21,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 22,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 23,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 24,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 25,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 26,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 27,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 28,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 29,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 30,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 31,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 32,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 33,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 34,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 35,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 36,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 37,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 38,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 39,
+    "loss": "127/12"
+  },
+  {
+    "type": "B",
+    "order": 40,
+    "loss": "127/12"
+  },
+  {
+    "type": "D",
+    "order": 2,
+    "loss": "73/6"
+  },
+  {
+    "type": "D",
+    "order": 3,
+    "loss": "61/4"
+  },
+  {
+    "type": "D",
+    "order": 4,
+    "loss": "55/3"
+  },
+  {
+    "type": "D",
+    "order": 5,
+    "loss": "245/12"
+  },
+  {
+    "type": "D",
+    "order": 6,
+    "loss": "43/2"
+  },
+  {
+    "type": "D",
+    "order": 7,
+    "loss": "259/12"
+  },
+  {
+    "type": "D",
+    "order": 8,
+    "loss": "62/3"
+  },
+  {
+    "type": "D",
+    "order": 9,
+    "loss": "75/4"
+  },
+  {
+    "type": "D",
+    "order": 10,
+    "loss": "103/6"
+  },
+  {
+    "type": "D",
+    "order": 11,
+    "loss": "63/4"
+  },
+  {
+    "type": "D",
+    "order": 12,
+    "loss": "14"
+  },
+  {
+    "type": "D",
+    "order": 13,
+    "loss": "143/12"
+  },
+  {
+    "type": "D",
+    "order": 14,
+    "loss": "29/3"
+  },
+  {
+    "type": "D",
+    "order": 15,
+    "loss": "31/4"
+  },
+  {
+    "type": "D",
+    "order": 16,
+    "loss": "19/3"
+  },
+  {
+    "type": "D",
+    "order": 17,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 18,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 19,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 20,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 21,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 22,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 23,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 24,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 25,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 26,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 27,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 28,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 29,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 30,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 31,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 32,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 33,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 34,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 35,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 36,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 37,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 38,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 39,
+    "loss": "23/4"
+  },
+  {
+    "type": "D",
+    "order": 40,
+    "loss": "23/4"
+  }
+]

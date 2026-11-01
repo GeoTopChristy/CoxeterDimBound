@@ -1,0 +1,111 @@
+[
+  {
+    "type": "E",
+    "dimension": 6,
+    "S": [
+      18,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "loss_times_12": [
+      402,
+      318,
+      258,
+      318,
+      258,
+      318,
+      258
+    ],
+    "maximum_multiplicity": 6
+  },
+  {
+    "type": "E",
+    "dimension": 7,
+    "S": [
+      13,
+      13,
+      9,
+      9,
+      7,
+      9,
+      9,
+      7
+    ],
+    "loss_times_12": [
+      439,
+      259,
+      379,
+      331,
+      259,
+      379,
+      331,
+      259
+    ],
+    "maximum_multiplicity": 3
+  },
+  {
+    "type": "E",
+    "dimension": 8,
+    "S": [
+      10,
+      10,
+      10,
+      8,
+      8,
+      12,
+      10,
+      10,
+      8
+    ],
+    "loss_times_12": [
+      452,
+      254,
+      332,
+      248,
+      440,
+      428,
+      392,
+      332,
+      248
+    ],
+    "maximum_multiplicity": 3
+  },
+  {
+    "type": "F",
+    "dimension": 4,
+    "S": [
+      4,
+      6,
+      4,
+      6,
+      4
+    ],
+    "loss_times_12": [
+      220,
+      256,
+      268,
+      256,
+      220
+    ],
+    "maximum_multiplicity": 2
+  },
+  {
+    "type": "G",
+    "dimension": 2,
+    "S": [
+      2,
+      2,
+      2
+    ],
+    "loss_times_12": [
+      134,
+      146,
+      134
+    ],
+    "maximum_multiplicity": 1
+  }
+]

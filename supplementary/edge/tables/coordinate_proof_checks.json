@@ -1,0 +1,106 @@
+{
+  "arithmetic": "exact",
+  "exceptional_coordinates": {
+    "E6": {
+      "maximum": 6,
+      "squared_length_multiplicities": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 6,
+        "8": 3
+      },
+      "facet_angles": "exactly verified"
+    },
+    "E7": {
+      "maximum": 3,
+      "squared_length_multiplicities": {
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "8": 2,
+        "9": 2,
+        "12": 3,
+        "16": 2,
+        "18": 2,
+        "20": 2,
+        "21": 2,
+        "24": 2,
+        "36": 1
+      },
+      "facet_angles": "exactly verified"
+    },
+    "E8": {
+      "maximum": 3,
+      "squared_length_multiplicities": {
+        "12": 1,
+        "15": 1,
+        "18": 1,
+        "20": 1,
+        "27": 1,
+        "30": 2,
+        "32": 1,
+        "35": 1,
+        "45": 2,
+        "48": 1,
+        "50": 1,
+        "60": 3,
+        "72": 1,
+        "75": 1,
+        "80": 2,
+        "90": 2,
+        "108": 1,
+        "120": 2,
+        "135": 1,
+        "140": 1,
+        "180": 2,
+        "240": 1,
+        "270": 1,
+        "288": 1,
+        "300": 1,
+        "315": 1,
+        "320": 1,
+        "360": 1
+      },
+      "facet_angles": "exactly verified"
+    },
+    "F4": {
+      "maximum": 2,
+      "squared_length_multiplicities": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "6": 2,
+        "8": 1,
+        "9": 1,
+        "12": 1
+      },
+      "facet_angles": "exactly verified"
+    },
+    "G2": {
+      "maximum": 1,
+      "squared_length_multiplicities": {
+        "1": 1,
+        "3": 1,
+        "4": 1
+      },
+      "facet_angles": "exactly verified"
+    }
+  },
+  "classical": {
+    "dimensions_checked_through": 40,
+    "simplices_checked": 114,
+    "global_and_incident_counts": "passed",
+    "symbolic_moment_identities": "passed"
+  },
+  "A_moment_and_small_correction": "passed",
+  "classical_angles": {
+    "simplices_checked": 41,
+    "dimensions_through": 12,
+    "facet_angles": "exactly verified"
+  }
+}
