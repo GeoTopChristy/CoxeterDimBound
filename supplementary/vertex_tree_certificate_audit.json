@@ -1,0 +1,15 @@
+{
+  "records_checked": 79113,
+  "outcomes": {
+    "negative": 39389,
+    "short": 11167,
+    "failed": 28557
+  },
+  "all_negative_certificate_matrices_exactly_negative_definite": true,
+  "all_witness_coordinates_positive": true,
+  "all_short_paths_are_valid_adjacent_angle_paths": true,
+  "all_short_paths_avoid_all_variable_internal_segments": true,
+  "all_failed_certificates_violate_the_stated_2x2_or_scalar_condition": true,
+  "minimum_negative_witness_determinant": "1/32400",
+  "scope_limit": "Does not independently reconstruct Schur matrices; the independent replay handles reconstruction. The support classification and arbitrary-length theorem remain mathematical inputs."
+}

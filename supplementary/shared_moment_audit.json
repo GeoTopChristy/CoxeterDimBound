@@ -1,0 +1,12 @@
+{
+  "product_dimension_range": [
+    0,
+    14
+  ],
+  "unordered_nonzero_dimension_lists": 508,
+  "zero_factor_checks": 508,
+  "all_generic_moment_identities_exact": true,
+  "actual_cusp_substitution_R_equals_n_minus_1": true,
+  "theta2_and_theta3_not_identified": true,
+  "source_files_modified": false
+}
