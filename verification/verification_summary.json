@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "mode": "validated_supplied_exact_results",
+  "tree_replayed_in_this_run": false,
+  "tree_certificate_arithmetic_checked_in_this_run": false,
+  "terminal_comparisons_recomputed_in_this_run": true,
+  "tree_records": 79113,
+  "tree_counts": {
+    "negative": 39389,
+    "short": 11167,
+    "failed": 28557
+  },
+  "classification_reductions": 61,
+  "three_face_markings": 5270,
+  "planar_cusp_lists": 2770038,
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "elapsed_seconds": 1.047,
+  "scope": "Exact finite arithmetic and supplied-result validation; geometric completeness and arbitrary-rank arguments are mathematical inputs, not formalized here."
+}
