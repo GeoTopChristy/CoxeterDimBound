@@ -1,0 +1,2549 @@
+{
+  "tails": [
+    {
+      "core": "Q9-B",
+      "marks": [
+        1,
+        8
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "-1",
+      "rho": "8"
+    },
+    {
+      "core": "Q9-B",
+      "marks": [
+        6,
+        7
+      ],
+      "node": 0,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "8"
+    },
+    {
+      "core": "Q9-D",
+      "marks": [
+        7,
+        8
+      ],
+      "node": 0,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "8"
+    },
+    {
+      "core": "Q9-E",
+      "marks": [
+        0,
+        1
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "4"
+    },
+    {
+      "core": "Q10-B",
+      "marks": [
+        1,
+        2
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "8"
+    },
+    {
+      "core": "Q10-B",
+      "marks": [
+        1,
+        9
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "-2",
+      "rho": "16"
+    },
+    {
+      "core": "Q10-B",
+      "marks": [
+        1,
+        9
+      ],
+      "node": 8,
+      "distance": 7,
+      "gamma": "0",
+      "rho": "9"
+    },
+    {
+      "core": "Q10-B",
+      "marks": [
+        2,
+        9
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "9"
+    },
+    {
+      "core": "Q10-B",
+      "marks": [
+        6,
+        7
+      ],
+      "node": 0,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "8"
+    },
+    {
+      "core": "Q10-D",
+      "marks": [
+        1,
+        7
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "9/2"
+    },
+    {
+      "core": "Q10-D",
+      "marks": [
+        1,
+        7
+      ],
+      "node": 9,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "9/2"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        0,
+        1
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "-4",
+      "rho": "4"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        0,
+        1
+      ],
+      "node": 8,
+      "distance": 7,
+      "gamma": "0",
+      "rho": "2"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        0,
+        2
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "2"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        0,
+        9
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "-4",
+      "rho": "4"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        0,
+        9
+      ],
+      "node": 8,
+      "distance": 7,
+      "gamma": "0",
+      "rho": "2"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        1,
+        2
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "16/9"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        1,
+        9
+      ],
+      "node": 7,
+      "distance": 6,
+      "gamma": "-4",
+      "rho": "16/5"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        1,
+        9
+      ],
+      "node": 8,
+      "distance": 7,
+      "gamma": "0",
+      "rho": "9/5"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        2,
+        9
+      ],
+      "node": 8,
+      "distance": 6,
+      "gamma": "0",
+      "rho": "9/5"
+    },
+    {
+      "core": "Q10-E",
+      "marks": [
+        6,
+        7
+      ],
+      "node": 0,
+      "distance": 6,
+      "gamma": "-8",
+      "rho": "8"
+    }
+  ],
+  "marked_records": 16,
+  "candidates": 92,
+  "counts": {
+    "S_not_PD": 65,
+    "angle_not_PSD": 3,
+    "conflicting_labels": 3,
+    "survivor": 21
+  },
+  "minimum_score": "1",
+  "records": [
+    {
+      "left": [
+        "Q9-B",
+        [
+          1,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          1,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          1,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          1,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-D",
+        [
+          7,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-D",
+        [
+          7,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-D",
+        [
+          7,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-D",
+        [
+          7,
+          8
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q9-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "angle_not_PSD"
+    },
+    {
+      "left": [
+        "Q9-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "angle_not_PSD"
+    },
+    {
+      "left": [
+        "Q9-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "angle_not_PSD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          2,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          0
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          9
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "conflicting_labels"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          2
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "conflicting_labels"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          2
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "conflicting_labels"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          2,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          6,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          0
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          2,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          2,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          2,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-B",
+        [
+          6,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          0,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          9,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          9,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-D",
+        [
+          1,
+          7
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          9,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          2
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          2
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          2,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          1
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          6,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          0
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "3",
+      "pair_weights": [
+        "0",
+        "1",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          2
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "5/4",
+      "pair_weights": [
+        "0",
+        "1/4",
+        "0",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "5/2",
+      "pair_weights": [
+        "1/4",
+        "1/4",
+        "1",
+        "1"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          2,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "5/4",
+      "pair_weights": [
+        "1/4",
+        "0",
+        "1",
+        "0"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          0,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          6,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          0
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          2
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "0",
+        "0",
+        "1/2",
+        "1/2"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          7
+        ]
+      ],
+      "status": "S_not_PD"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "score": "2",
+      "pair_weights": [
+        "1/2",
+        "1/2",
+        "1/2",
+        "1/2"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          2,
+          9
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          8
+        ]
+      ],
+      "score": "1",
+      "pair_weights": [
+        "1/2",
+        "0",
+        "1/2",
+        "0"
+      ],
+      "status": "survivor"
+    },
+    {
+      "left": [
+        "Q10-E",
+        [
+          1,
+          9
+        ]
+      ],
+      "right": [
+        "Q10-E",
+        [
+          6,
+          7
+        ]
+      ],
+      "identification": [
+        [
+          8,
+          0
+        ]
+      ],
+      "status": "S_not_PD"
+    }
+  ]
+}

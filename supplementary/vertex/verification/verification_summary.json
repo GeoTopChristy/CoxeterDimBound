@@ -1,0 +1,37 @@
+{
+  "mode": "validate_stored_exact_summaries",
+  "completed_checks": [
+    {
+      "script": "budget_audit.py",
+      "summary": "budget_results.json",
+      "summary_sha256": "1441728334f99a63384c70c242c266021f2f2478c68243b2924fbe749d612bfd"
+    },
+    {
+      "script": "tail_gluing_audit.py",
+      "summary": "tail_gluing_results.json",
+      "summary_sha256": "c8a934ddfb5e68842008662617da569deb0eedcde0e794cb34705f9968f6f704"
+    },
+    {
+      "script": "triangle_audit.py",
+      "summary": "triangle_results.json",
+      "summary_sha256": "3291e8320acd9de1d77add970ad32fbf9bc010eaf87ed2475c47ec56e4f5b4f5"
+    },
+    {
+      "script": "cycle_audit.py",
+      "summary": "cycle_results.json",
+      "summary_sha256": "875c806d50c3a732eb237e807d0805dcdccfc5ef8b90138d3149bfb062addcc8"
+    },
+    {
+      "script": "envelope_audit.py",
+      "summary": "envelope_results.json",
+      "summary_sha256": "1e4d1483e6549794f178121276cfc58a684810dec51724aedeb2bddd1d71cd55"
+    },
+    {
+      "script": "cusp_enumeration.py",
+      "summary": "cusp_results.json",
+      "summary_sha256": "40f8a5d6fba3e63f747c219c08886b6a2286c0cac5d4af125f6de83ac5480f7f"
+    }
+  ],
+  "tree_support_certificates_79113": "supplied_in_supplementary_tree",
+  "geometric_arbitrary_length_and_concavity_coverage": "mathematical_proof_in_manuscript"
+}
