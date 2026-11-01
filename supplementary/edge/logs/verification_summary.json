@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "utc": "2026-10-26T03:19:07.835823+00:00",
+  "elapsed_seconds": 40.047,
+  "python": "3.9.12",
+  "networkx": "2.7.1",
+  "sympy": "1.14.0",
+  "results": {
+    "local": {
+      "counts": {
+        "I": 1781,
+        "II": 728,
+        "III": 2761
+      },
+      "minima": {
+        "I": "3",
+        "II": "2",
+        "III": "1"
+      }
+    },
+    "marking_counts": {
+      "candidate_entries": 61,
+      "counts": {
+        "I": 1781,
+        "II": 728,
+        "III": 2761
+      },
+      "type_III_singular_a": 577,
+      "comparison_with_local_checks": "All 5270 marked identifiers agree."
+    },
+    "type_IV": {
+      "critical_positions": 21,
+      "marked_pairs": 16,
+      "candidates": 92,
+      "statuses": {
+        "nonpositive cross deletion": 76,
+        "incompatible shared labels": 3,
+        "survivor": 13
+      }
+    },
+    "metric": {
+      "classical_vertex_checks": 902,
+      "exceptional_types": 5,
+      "formula_spot_checks_through_dimension": 40
+    },
+    "small_three_faces": 9,
+    "algebra": "all polynomial identities and positive shifts passed"
+  },
+  "scope": "Exact finite computations and symbolic identities; geometric reductions and classification completeness are proved or cited in the manuscript."
+}

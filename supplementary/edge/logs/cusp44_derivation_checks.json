@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "utc": "2026-10-26T03:19:16.276466+00:00",
+  "scope": "Section 5 notation equivalence, coefficient identities, link example, and existing endpoint algebra; no full-suite rerun.",
+  "checks": {
+    "u_n_normalization_both_parities": true,
+    "paired_coefficients_both_parities": true,
+    "cusp_kernel_both_parities": true,
+    "product_link_example_dimensions": "6 through 24",
+    "existing_endpoint_algebra": "all polynomial identities and positive shifts passed"
+  }
+}

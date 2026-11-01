@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational and symbolic",
+  "examples": [
+    "triangle times interval",
+    "selected subset below the full mean",
+    "right-isosceles matching counts and vertex counts",
+    "equilateral correction",
+    "cube rectangle incidences"
+  ],
+  "alternating_color_maxima": {
+    "2x3": 2,
+    "3x3": 4
+  },
+  "small_dimension_pairs_checked": 36,
+  "stable_pointwise_minimum_at_21": "1/63",
+  "symbolic_identities": [
+    "normalized edge coefficient",
+    "sum of I and J with correction remainder",
+    "local coefficient 6 lambda_n",
+    "global coefficient 9 lambda_n"
+  ],
+  "edge_endpoint_multiplicities": {
+    "(0, 0)": 0,
+    "(0, 1)": 2,
+    "(1, 1)": 2
+  },
+  "scope": "New examples and rewritten algebra only; full classification suite not rerun."
+}

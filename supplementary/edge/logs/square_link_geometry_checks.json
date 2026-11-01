@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "utc": "2026-11-01T02:47:30.499001+00:00",
+  "normalized_radius": 1,
+  "finite_vertices": [
+    "p",
+    "q"
+  ],
+  "finite_boundary_ideal_vertices": [
+    "u2",
+    "u3"
+  ],
+  "remaining_ideal_vertex": "infinity",
+  "vertex_facet_incidence_checks": 4,
+  "right_angle_edge_checks": 9,
+  "hemisphere_intersection_plane": "x+y=1",
+  "horosphere_metric": "h^(-2)(dx^2+dy^2)",
+  "square_side_length": "1/h"
+}
