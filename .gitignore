@@ -1,0 +1,26 @@
+# Document sources and compiled documents are not part of this code package.
+*.tex
+*.pdf
+*.bib
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.docx
+*.doc
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets*.json
+verification/run_logs/
+.DS_Store
+Thumbs.db

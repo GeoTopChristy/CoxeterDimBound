@@ -1,0 +1,2 @@
+# Preserve the bytes recorded in SHA256SUMS.json across operating systems.
+* -text
