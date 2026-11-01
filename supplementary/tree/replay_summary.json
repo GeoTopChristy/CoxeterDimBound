@@ -1,0 +1,52 @@
+{
+  "independent_inverse_formulas": true,
+  "all_certificates_replayed": true,
+  "distinct_initial_chains": 450,
+  "distinct_records": 79113,
+  "counts": {
+    "negative": 39389,
+    "short": 11167,
+    "failed": 28557
+  },
+  "bytype": {
+    "AA": {
+      "negative": 17115,
+      "short": 5877,
+      "failed": 10083
+    },
+    "BA": {
+      "negative": 7080,
+      "short": 2175,
+      "failed": 5370
+    },
+    "DA": {
+      "negative": 7472,
+      "short": 2185,
+      "failed": 5868
+    },
+    "BB": {
+      "negative": 2400,
+      "short": 300,
+      "failed": 2100
+    },
+    "BD": {
+      "negative": 2570,
+      "short": 310,
+      "failed": 2400
+    },
+    "DD": {
+      "negative": 2752,
+      "short": 320,
+      "failed": 2736
+    }
+  },
+  "minimum_determinant": "1/32400",
+  "seconds": 62.07,
+  "record_sha256": "5c0ba71204ac1bd6b86fb753abb597caaaa334701e84c285feeb62afe7f9f73b",
+  "runtime": {
+    "python": null,
+    "platform": null,
+    "dependencies": "Python standard library only",
+    "note": "Python version and platform were not recorded in the supplied result; rerunning records them."
+  }
+}
